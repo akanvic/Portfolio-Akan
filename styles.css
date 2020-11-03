@@ -79,8 +79,8 @@ button:hover {
 }
 
 .selfie {
-  background-image: url(img/me.jpg);
-  background-position: 10% 10%;
+  background-image: url(img/selfie.jpg);
+  background-position: 50% 50%;
   height: 550px;
   background-size: cover;
 }
