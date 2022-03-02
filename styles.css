@@ -134,12 +134,16 @@ button:hover {
 .work {
   -webkit-box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
           box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+        background-image: url("img/smoke.jpg");
+  
 }
 
 .work p {
   border-left: 5px solid #ececec;
   padding-left: 10px;
-  font-size: 12px;
+  font-size: 11px;
+  word-spacing: 1px;
+  color: white ;
 }
 
 .work img {
